@@ -38,6 +38,7 @@ In other words, you should only have 3 imports active:
 ```
 
 OK, tell me, how many kilobytes is the `manifest.css` file now?
+// 180kb
 
 Why is it that size? Shouldn't it be larger than that?
 
