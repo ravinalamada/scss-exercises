@@ -4418,3 +4418,27 @@ a.text-dark:hover, a.text-dark:focus {
 
 .invisible {
   visibility: hidden !important; }
+
+.bd-bg {
+  background-color: #212529; }
+
+.panel-black {
+  background-color: #000; }
+
+.panel-red {
+  background-color: #dc3545; }
+
+.panel-white {
+  background-color: #fff; }
+
+.panel-padding {
+  padding: 2rem; }
+
+.margin-panel {
+  margin-bottom: 1rem; }
+
+.color-white {
+  color: #fff; }
+
+.color-black {
+  color: #000; }

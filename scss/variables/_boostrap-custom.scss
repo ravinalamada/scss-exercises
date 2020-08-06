@@ -1142,3 +1142,7 @@ $user-selects: all, auto, none !default;
 
 $print-page-size:                   a3 !default;
 $print-body-min-width:              map-get($grid-breakpoints, "lg") !default;
+
+// padding
+$margin-panel-btm: 1rem !default;
+$padding-panel: 2rem !default;
