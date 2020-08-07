@@ -4442,3 +4442,6 @@ a.text-dark:hover, a.text-dark:focus {
 
 .color-black {
   color: #000; }
+
+.header-bg {
+  background-color: #F4F6F9; }
